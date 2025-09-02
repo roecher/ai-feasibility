@@ -17,15 +17,10 @@
 ## 📂 Repository Structure
 
 /docs/                # MkDocs or Docusaurus; publish via GitHub Pages
-
 /docs/adr/            # Architecture Decision Records (ADR-0001.md …)
-
 /experiments/         # One folder per spike (mcp-server-x, sk-playground, evals-…)
-
 /agents/              # Prototypes: SK, AutoGen, MCP clients, Azure AI Agent
-
 /mcp-servers/         # Minimal MCP servers exposing your internal APIs (stubs ok)
-
 /benchmarks/          # Eval harnesses, scenarios, datasets (sanitized)
 /infra/               # devcontainer.json, Codespaces, IaC for POCs
 /.github/

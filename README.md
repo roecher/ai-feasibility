@@ -17,6 +17,7 @@
 ## 📂 Repository Structure
 
 /docs/                # MkDocs or Docusaurus; publish via GitHub Pages
+
 /docs/adr/            # Architecture Decision Records (ADR-0001.md …)
 /experiments/         # One folder per spike (mcp-server-x, sk-playground, evals-…)
 /agents/              # Prototypes: SK, AutoGen, MCP clients, Azure AI Agent
